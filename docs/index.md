@@ -11,3 +11,4 @@
 * **Tanakh – Tóra (Mózes öt könyve):**
   * **Bereshit / Genesis (1–50. fejezet):** Teljes egészében elkészült és olvasható.
   * **Shemot / Exodus (1–40. fejezet):** Teljes egészében elkészült és olvasható.
+  * **Vayikra / Leviticus (1–27. fejezet):** Teljes egészében elkészült és olvasható.
