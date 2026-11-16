@@ -14,3 +14,5 @@
   * **Vayikra / Leviticus (1–27. fejezet):** Teljes egészében elkészült és olvasható.
   * **Bamidbar / Numeri (1–36. fejezet):** Teljes egészében elkészült és olvasható.
   * **Devarim / Deuteronomium (1–34. fejezet):** Teljes egészében elkészült és olvasható.
+* **Tanakh – Nevi'im (Próféták):**
+  * **Yehoshua / Józsué (1–24. fejezet):** Teljes egészében elkészült és olvasható.
