@@ -8,7 +8,9 @@
 * **Szövegkritikai jegyzetek:** Minden fejezet végén nyers, teológiai és jogi elemzés segíti a mélyebb megértést.
 
 ## Elkészült könyvek (Folyamatosan bővül)
-* **Tanakh – Tóra (Mózes öt könyve):**
+* **Tanakh – Tóra (Mózes öt könyve – Teljes egészében elkészült):**
   * **Bereshit / Genesis (1–50. fejezet):** Teljes egészében elkészült és olvasható.
   * **Shemot / Exodus (1–40. fejezet):** Teljes egészében elkészült és olvasható.
   * **Vayikra / Leviticus (1–27. fejezet):** Teljes egészében elkészült és olvasható.
+  * **Bamidbar / Numeri (1–36. fejezet):** Teljes egészében elkészült és olvasható.
+  * **Devarim / Deuteronomium (1–34. fejezet):** Teljes egészében elkészült és olvasható.
