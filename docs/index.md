@@ -17,3 +17,4 @@
 * **Tanakh – Nevi'im (Próféták):**
   * **Yehoshua / Józsué (1–24. fejezet):** Teljes egészében elkészült és olvasható.
 - **Shofetim / Bírák (1–21. fejezet):** Teljes egészében elkészült és olvasható.
+- **Shmuel Alef / 1 Sámuel (1–31. fejezet):** Teljes egészében elkészült és olvasható.
