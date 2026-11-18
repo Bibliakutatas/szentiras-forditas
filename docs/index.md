@@ -20,4 +20,4 @@
 - **Shmuel Alef / 1 Sámuel (1–31. fejezet):** Teljes egészében elkészült és olvasható.
 - **Shmuel Bet / 2 Sámuel (1–24. fejezet):** Teljes egészében elkészült és olvasható.
 - **Melakhim Alef / 1 Királyok (1–22. fejezet):** Teljes egészében elkészült és olvasható.
-- **Melakhim Bet / 2 Királyok (1–10. fejezet – folyamatban):** Folyamatosan bővül.
+- **Melakhim Bet / 2 Királyok (1–11. fejezet – folyamatban):** Folyamatosan bővül.
