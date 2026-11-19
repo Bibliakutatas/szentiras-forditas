@@ -21,4 +21,4 @@
 - **Shmuel Bet / 2 Sámuel (1–24. fejezet):** Teljes egészében elkészült és olvasható.
 - **Melakhim Alef / 1 Királyok (1–22. fejezet):** Teljes egészében elkészült és olvasható.
 - **Melakhim Bet / 2 Királyok (1–25. fejezet):** Teljes egészében elkészült és olvasható.
-    - **Jeshajahu / Ézsaiás (1–66. fejezet):** Teljes egészében elkészült és olvasható.
+- **Jeshajahu / Ézsaiás (1–66. fejezet):** Teljes egészében elkészült és olvasható.
