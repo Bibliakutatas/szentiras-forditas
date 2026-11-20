@@ -1,2 +1,3 @@
 # A Bibliát Kutatom – Szöveghű Bibliafordítás
-(A teljes szöveget lásd a forrásban vagy a projekt dokumentációjában)
+
+Üdvözlünk **A Bibliát Kutatom** hivatalos felületén, amely az Ószövetség és Újszövetség szövegkritikai fordításait tartalmazza.
