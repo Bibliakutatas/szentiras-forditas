@@ -22,4 +22,4 @@
 - **Melakhim Alef / 1 Királyok (1–22. fejezet):** Teljes egészében elkészült és olvasható.
 - **Melakhim Bet / 2 Királyok (1–25. fejezet):** Teljes egészében elkészült és olvasható.
 - **Jeshajahu / Ézsaiás (1–66. fejezet):** Teljes egészében elkészült és olvasható.
-    - **Jirmijahu / Jeremiás (1–52. fejezet):** Teljes egészében elkészült és olvasható.
+- **Jirmijahu / Jeremiás (1–52. fejezet):** Teljes egészében elkészült és olvasható.
