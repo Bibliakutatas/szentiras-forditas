@@ -30,3 +30,4 @@
 - **Amos / Ámósz (1–9. fejezet):** Teljes egészében elkészült és olvasható.
 - **Ovadjah / Abdiás (1. fejezet):** Teljes egészében elkészült és olvasható.
 - **Jonah / Jónás (1–4. fejezet):** Teljes egészében elkészült és olvasható.
+- **Mikhah / Mikeás (1–7. fejezet):** Teljes egészében elkészült és olvasható.
