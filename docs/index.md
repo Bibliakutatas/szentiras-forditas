@@ -26,3 +26,4 @@
 - **Ejkhah / Siralmak (1–5. fejezet):** Teljes egészében elkészült és olvasható.
 - **Jechezkel / Ezékiel (1–48. fejezet):** Teljes egészében elkészült és olvasható.
 - **Hoshea / Hóseás (1–14. fejezet):** Teljes egészében elkészült és olvasható.
+- **Jo'el / Jóel (1–4. fejezet):** Teljes egészében elkészült és olvasható.
