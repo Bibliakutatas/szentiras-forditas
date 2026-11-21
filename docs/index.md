@@ -28,3 +28,4 @@
 - **Hoshea / Hóseás (1–14. fejezet):** Teljes egészében elkészült és olvasható.
 - **Jo'el / Jóel (1–4. fejezet):** Teljes egészében elkészült és olvasható.
 - **Amos / Ámósz (1–9. fejezet):** Teljes egészében elkészült és olvasható.
+- **Ovadjah / Abdiás (1. fejezet):** Teljes egészében elkészült és olvasható.
