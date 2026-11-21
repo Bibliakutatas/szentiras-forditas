@@ -37,3 +37,5 @@
 - **Chaggaj / Haggeus (1–2. fejezet):** Teljes egészében elkészült és olvasható.
 - **Zekharjah / Zakariás (1–14. fejezet):** Teljes egészében elkészült és olvasható.
 - **Mal'akhi / Malakiás (1–3. fejezet):** Teljes egészében elkészült és olvasható.
+* **Tanakh – Ketuvim (Írások):**
+  * **Tehillim / Zsoltárok (1–150. + 151. LXX/Qumrán fejezet):** Teljes egészében elkészült és olvasható.
