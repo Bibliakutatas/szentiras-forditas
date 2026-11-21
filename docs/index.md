@@ -14,28 +14,28 @@
   * **Vayikra / Leviticus (1–27. fejezet):** Teljes egészében elkészült és olvasható.
   * **Bamidbar / Numeri (1–36. fejezet):** Teljes egészében elkészült és olvasható.
   * **Devarim / Deuteronomium (1–34. fejezet):** Teljes egészében elkészült és olvasható.
-* **Tanakh – Nevi'im (Próféták):**
+* **Tanakh – Nevi'im (Próféták – Teljes egészében elkészült):**
   * **Yehoshua / Józsué (1–24. fejezet):** Teljes egészében elkészült és olvasható.
-- **Shofetim / Bírák (1–21. fejezet):** Teljes egészében elkészült és olvasható.
-- **Shmuel Alef / 1 Sámuel (1–31. fejezet):** Teljes egészében elkészült és olvasható.
-- **Shmuel Bet / 2 Sámuel (1–24. fejezet):** Teljes egészében elkészült és olvasható.
-- **Melakhim Alef / 1 Királyok (1–22. fejezet):** Teljes egészében elkészült és olvasható.
-- **Melakhim Bet / 2 Királyok (1–25. fejezet):** Teljes egészében elkészült és olvasható.
-- **Jeshajahu / Ézsaiás (1–66. fejezet):** Teljes egészében elkészült és olvasható.
-- **Jirmijahu / Jeremiás (1–52. fejezet):** Teljes egészében elkészült és olvasható.
-- **Ejkhah / Siralmak (1–5. fejezet):** Teljes egészében elkészült és olvasható.
-- **Jechezkel / Ezékiel (1–48. fejezet):** Teljes egészében elkészült és olvasható.
-- **Hoshea / Hóseás (1–14. fejezet):** Teljes egészében elkészült és olvasható.
-- **Jo'el / Jóel (1–4. fejezet):** Teljes egészében elkészült és olvasható.
-- **Amos / Ámósz (1–9. fejezet):** Teljes egészében elkészült és olvasható.
-- **Ovadjah / Abdiás (1. fejezet):** Teljes egészében elkészült és olvasható.
-- **Jonah / Jónás (1–4. fejezet):** Teljes egészében elkészült és olvasható.
-- **Mikhah / Mikeás (1–7. fejezet):** Teljes egészében elkészült és olvasható.
-- **Nachum / Náhum (1–3. fejezet):** Teljes egészében elkészült és olvasható.
-- **Chavakkuk / Habakuk (1–3. fejezet):** Teljes egészében elkészült és olvasható.
-- **Cefanjah / Sofóniás (1–3. fejezet):** Teljes egészében elkészült és olvasható.
-- **Chaggaj / Haggeus (1–2. fejezet):** Teljes egészében elkészült és olvasható.
-- **Zekharjah / Zakariás (1–14. fejezet):** Teljes egészében elkészült és olvasható.
-- **Mal'akhi / Malakiás (1–3. fejezet):** Teljes egészében elkészült és olvasható.
+  * **Shofetim / Bírák (1–21. fejezet):** Teljes egészében elkészült és olvasható.
+  * **Shmuel Alef / 1 Sámuel (1–31. fejezet):** Teljes egészében elkészült és olvasható.
+  * **Shmuel Bet / 2 Sámuel (1–24. fejezet):** Teljes egészében elkészült és olvasható.
+  * **Melakhim Alef / 1 Királyok (1–22. fejezet):** Teljes egészében elkészült és olvasható.
+  * **Melakhim Bet / 2 Királyok (1–25. fejezet):** Teljes egészében elkészült és olvasható.
+  * **Jeshajahu / Ézsaiás (1–66. fejezet):** Teljes egészében elkészült és olvasható.
+  * **Jirmijahu / Jeremiás (1–52. fejezet):** Teljes egészében elkészült és olvasható.
+  * **Jechezkel / Ezékiel (1–48. fejezet):** Teljes egészében elkészült és olvasható.
+  * **Hoshea / Hóseás (1–14. fejezet):** Teljes egészében elkészült és olvasható.
+  * **Jo'el / Jóel (1–4. fejezet):** Teljes egészében elkészült és olvasható.
+  * **Amos / Ámósz (1–9. fejezet):** Teljes egészében elkészült és olvasható.
+  * **Ovadjah / Abdiás (1. fejezet):** Teljes egészében elkészült és olvasható.
+  * **Jonah / Jónás (1–4. fejezet):** Teljes egészében elkészült és olvasható.
+  * **Mikhah / Mikeás (1–7. fejezet):** Teljes egészében elkészült és olvasható.
+  * **Nachum / Náhum (1–3. fejezet):** Teljes egészében elkészült és olvasható.
+  * **Chavakkuk / Habakuk (1–3. fejezet):** Teljes egészében elkészült és olvasható.
+  * **Cefanjah / Sofóniás (1–3. fejezet):** Teljes egészében elkészült és olvasható.
+  * **Chaggaj / Haggeus (1–2. fejezet):** Teljes egészében elkészült és olvasható.
+  * **Zekharjah / Zakariás (1–14. fejezet):** Teljes egészében elkészült és olvasható.
+  * **Mal'akhi / Malakiás (1–3. fejezet):** Teljes egészében elkészült és olvasható.
 * **Tanakh – Ketuvim (Írások):**
   * **Tehillim / Zsoltárok (1–150. + 151. LXX/Qumrán fejezet):** Teljes egészében elkészült és olvasható.
+  * **Ejkhah / Siralmak (1–5. fejezet):** Teljes egészében elkészült és olvasható.
