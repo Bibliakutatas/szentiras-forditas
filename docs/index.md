@@ -35,3 +35,4 @@
 - **Chavakkuk / Habakuk (1–3. fejezet):** Teljes egészében elkészült és olvasható.
 - **Cefanjah / Sofóniás (1–3. fejezet):** Teljes egészében elkészült és olvasható.
 - **Chaggaj / Haggeus (1–2. fejezet):** Teljes egészében elkészült és olvasható.
+- **Zekharjah / Zakariás (1–14. fejezet):** Teljes egészében elkészült és olvasható.
