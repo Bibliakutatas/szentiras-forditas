@@ -34,3 +34,4 @@
 - **Nachum / Náhum (1–3. fejezet):** Teljes egészében elkészült és olvasható.
 - **Chavakkuk / Habakuk (1–3. fejezet):** Teljes egészében elkészült és olvasható.
 - **Cefanjah / Sofóniás (1–3. fejezet):** Teljes egészében elkészült és olvasható.
+- **Chaggaj / Haggeus (1–2. fejezet):** Teljes egészében elkészült és olvasható.
