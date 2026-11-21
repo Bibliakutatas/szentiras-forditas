@@ -33,3 +33,4 @@
 - **Mikhah / Mikeás (1–7. fejezet):** Teljes egészében elkészült és olvasható.
 - **Nachum / Náhum (1–3. fejezet):** Teljes egészében elkészült és olvasható.
 - **Chavakkuk / Habakuk (1–3. fejezet):** Teljes egészében elkészült és olvasható.
+- **Cefanjah / Sofóniás (1–3. fejezet):** Teljes egészében elkészült és olvasható.
