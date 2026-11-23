@@ -41,3 +41,4 @@
   * **Ejkhah / Siralmak (1–5. fejezet):** Teljes egészében elkészült és olvasható.
   * **Mishlé / Példabeszédek (1–31. fejezet):** Teljes egészében elkészült és olvasható.
   * **Ijjov / Jób (1–42. fejezet):** Teljes egészében elkészült és olvasható.
+  * **Shir HaShirim / Énekek éneke (1–8. fejezet):** Teljes egészében elkészült és olvasható.
