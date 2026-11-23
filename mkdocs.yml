@@ -903,6 +903,9 @@ nav:
       - 10. fejezet: tanakh/34-daniel/10.md
       - 11. fejezet: tanakh/34-daniel/11.md
       - 12. fejezet: tanakh/34-daniel/12.md
+    - Ezra:
+      - 1. fejezet: tanakh/35-ezra/01.md
+      - 2. fejezet: tanakh/35-ezra/02.md
 
 extra_css:
   - assets/stepbible.css
