@@ -8,7 +8,9 @@ STRONGS_CACHE = "data/strongs-hebrew-dictionary.js"
 def load_strongs():
     with open(STRONGS_CACHE, "r", encoding="utf-8") as f:
         raw = f.read()
-    return json.loads(re.sub(r"^.*?=\s*", "", raw.strip(), count=1).rstrip(";"))
+    start = raw.find("{")
+    end = raw.rfind("}") + 1
+    return json.loads(raw[start:end])
 
 def norm_phon(text):
     t = "".join(c for c in unicodedata.normalize("NFD", text.lower().strip()) if unicodedata.category(c) != "Mn")
