@@ -890,6 +890,9 @@ nav:
       - 8. fejezet: tanakh/33-eszter/08.md
       - 9. fejezet: tanakh/33-eszter/09.md
       - 10. fejezet: tanakh/33-eszter/10.md
+    - Dániel:
+      - 1. fejezet: tanakh/34-daniel/01.md
+      - 2. fejezet: tanakh/34-daniel/02.md
 
 extra_css:
   - assets/stepbible.css
