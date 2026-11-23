@@ -861,6 +861,9 @@ nav:
       - 6. fejezet: tanakh/30-shir-hashirim/06.md
       - 7. fejezet: tanakh/30-shir-hashirim/07.md
       - 8. fejezet: tanakh/30-shir-hashirim/08.md
+    - Ruth:
+      - 1. fejezet: tanakh/31-ruth/01.md
+      - 2. fejezet: tanakh/31-ruth/02.md
 
 extra_css:
   - assets/stepbible.css
