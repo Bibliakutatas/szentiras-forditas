@@ -43,3 +43,4 @@
   * **Ijjov / Jób (1–42. fejezet):** Teljes egészében elkészült és olvasható.
   * **Shir HaShirim / Énekek éneke (1–8. fejezet):** Teljes egészében elkészült és olvasható.
   * **Ruth (1–4. fejezet):** Teljes egészében elkészült és olvasható.
+  * **Qohelet / Prédikátor (1–12. fejezet):** Teljes egészében elkészült és olvasható.
