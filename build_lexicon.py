@@ -36,17 +36,18 @@ def build_lexicon():
                     continue
                 ref = f"{book_chap}:{vers_match.group(1)}"
 
-                matches = re.finditer(r"([A-Za-zÁÉÍÓÖŐÚÜŰáéíóöőúüű\-]+\s+)?([A-Za-zÁÉÍÓÖŐÚÜŰáéíóöőúüű\-]+)\s*\(\*([^*]+)\*\)", clean_line)
-
-                for m in matches:
-                    prev1 = (m.group(1) or "").strip()
-                    prev2 = (m.group(2) or "").strip()
-                    heb_raw = m.group(3).strip()
-
-                    if len(heb_raw) > 35 or ":" in heb_raw or "=" in heb_raw or "LXX" in heb_raw:
+                # Minden (*heber*) elofordulas megkeresese, fuggetlenul a felkover (**) vagy irasjel elotagtol
+                for m in re.finditer(r"\(\*([^*]+)\*\)", clean_line):
+                    heb_raw = m.group(1).strip()
+                    if len(heb_raw) <= 1 or len(heb_raw) > 35 or ":" in heb_raw or "=" in heb_raw or "LXX" in heb_raw:
                         continue
 
-                    hu_phrase = f"{prev1} {prev2}".strip()
+                    # A zarojelet megelozo reszbol kinyerjuk az utolso 1-2 magyar szot (csillagok es irasjelek nelkul)
+                    prefix = clean_line[:m.start()]
+                    prefix_clean = re.sub(r"\*\*|\(\*[^*]+\*\)|[^\w\sÁÉÍÓÖŐÚÜŰáéíóöőúüű\-]", " ", prefix)
+                    words = [w for w in prefix_clean.split() if not w.isdigit()]
+                    hu_phrase = " ".join(words[-2:]) if len(words) >= 2 else (words[-1] if words else "")
+
                     entry = lexicon[heb_raw]
                     entry["c"] += 1
                     if hu_phrase:
