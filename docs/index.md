@@ -39,3 +39,5 @@
 * **Tanakh – Ketuvim (Írások):**
   * **Tehillim / Zsoltárok (1–150. + 151. LXX/Qumrán fejezet):** Teljes egészében elkészült és olvasható.
   * **Ejkhah / Siralmak (1–5. fejezet):** Teljes egészében elkészült és olvasható.
+  * **Mishlé / Példabeszédek (1–31. fejezet):** Teljes egészében elkészült és olvasható.
+  * **Ijjov / Jób (1–42. fejezet):** Teljes egészében elkészült és olvasható.
