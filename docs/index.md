@@ -48,4 +48,4 @@
   * **Dániel (1–12. fejezet):** Teljes egészében elkészült és olvasható.
   * **Ezra (1–10. fejezet):** Teljes egészében elkészült és olvasható.
   * **Nechemjáh / Nehémiás (1–13. fejezet):** Teljes egészében elkészült és olvasható.
-  * **Krónikák első könyve / 1Divré HaJamim (1–29. fejezet):** Teljes egészében elkészült és olvasható.
+  * **1Divré HaJamim / Krónikák I. (1–29. fejezet):** Teljes egészében elkészült és olvasható.
