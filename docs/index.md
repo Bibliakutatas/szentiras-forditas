@@ -7,7 +7,7 @@
 * **Szent Nevek megőrzése:** A Teremtő szent nevét (**YHWH** – *Jahuah / Jahve*), valamint a bibliai szereplők és helyszínek eredeti héber neveit (**Yehoshua**, **Moshe**, **Avraham**, **Yisrael**, **Micrayim**) változatlanul hagyjuk, hogy ne vesszen el a szöveg eredeti jelentésrétege.
 * **Szövegkritikai jegyzetek:** Minden fejezet végén nyers, teológiai és jogi elemzés segíti a mélyebb megértést.
 
-## Elkészült könyvek (Folyamatosan bővül)
+## Elkészült könyvek (A teljes Tanakh elkészült – folytatás a Brit Chadashah könyveivel)
 * **Tanakh – Tóra (Mózes öt könyve – Teljes egészében elkészült):**
   * **Bereshit / Genesis (1–50. fejezet):** Teljes egészében elkészült és olvasható.
   * **Shemot / Exodus (1–40. fejezet):** Teljes egészében elkészült és olvasható.
@@ -36,7 +36,7 @@
   * **Chaggaj / Haggeus (1–2. fejezet):** Teljes egészében elkészült és olvasható.
   * **Zekharjah / Zakariás (1–14. fejezet):** Teljes egészében elkészült és olvasható.
   * **Mal'akhi / Malakiás (1–3. fejezet):** Teljes egészében elkészült és olvasható.
-* **Tanakh – Ketuvim (Írások):**
+* **Tanakh – Ketuvim (Írások – Teljes egészében elkészült):**
   * **Tehillim / Zsoltárok (1–150. + 151. LXX/Qumrán fejezet):** Teljes egészében elkészült és olvasható.
   * **Ejkhah / Siralmak (1–5. fejezet):** Teljes egészében elkészült és olvasható.
   * **Mishlé / Példabeszédek (1–31. fejezet):** Teljes egészében elkészült és olvasható.
@@ -49,3 +49,4 @@
   * **Ezra (1–10. fejezet):** Teljes egészében elkészült és olvasható.
   * **Nechemjáh / Nehémiás (1–13. fejezet):** Teljes egészében elkészült és olvasható.
   * **1Divré HaJamim / Krónikák I. (1–29. fejezet):** Teljes egészében elkészült és olvasható.
+  * **2Divré HaJamim / Krónikák II. (1–36. fejezet):** Teljes egészében elkészült és olvasható.
