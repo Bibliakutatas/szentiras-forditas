@@ -996,9 +996,9 @@ nav:
         - 34. fejezet: tanakh/38-2divre-hajamim/34.md
         - 35. fejezet: tanakh/38-2divre-hajamim/35.md
         - 36. fejezet: tanakh/38-2divre-hajamim/36.md
-  
-  extra_css:
-    - assets/stepbible.css
-  
-  extra_javascript:
-    - assets/stepbible.js
+
+extra_css:
+  - assets/stepbible.css
+
+extra_javascript:
+  - assets/stepbible.js
