@@ -73,3 +73,12 @@
 </details>
 
 </details>
+
+<details>
+<summary><strong>Brit Chadashah (Újszövetség)</strong></summary>
+
+<ul>
+  <li><strong><a href="brit-chadashah/01-mattitjahu/01/">Mattitjáhú (Máté) (1. fejezet – folyamatban)</a>:</strong> Elkészült és olvasható.</li>
+</ul>
+
+</details>

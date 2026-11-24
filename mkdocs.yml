@@ -997,6 +997,10 @@ nav:
         - 35. fejezet: tanakh/38-2divre-hajamim/35.md
         - 36. fejezet: tanakh/38-2divre-hajamim/36.md
 
+  - Brit Chadashah (Újszövetség):
+    - Mattitjáhú (Máté):
+      - "1. fejezet": brit-chadashah/01-mattitjahu/01.md
+
 extra_css:
   - assets/stepbible.css
 
