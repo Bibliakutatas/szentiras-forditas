@@ -1000,6 +1000,7 @@ nav:
   - Brit Chadashah (Újszövetség):
     - Mattitjáhú (Máté):
       - "1. fejezet": brit-chadashah/01-mattitjahu/01.md
+      - "2. fejezet": brit-chadashah/01-mattitjahu/02.md
 
 extra_css:
   - assets/stepbible.css
