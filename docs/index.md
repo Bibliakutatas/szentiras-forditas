@@ -47,3 +47,4 @@
   * **Eszter (1–10. fejezet):** Teljes egészében elkészült és olvasható.
   * **Dániel (1–12. fejezet):** Teljes egészében elkészült és olvasható.
   * **Ezra (1–10. fejezet):** Teljes egészében elkészült és olvasható.
+  * **Nechemjáh / Nehémiás (1–13. fejezet):** Teljes egészében elkészült és olvasható.
