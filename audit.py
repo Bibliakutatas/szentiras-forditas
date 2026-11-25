@@ -29,8 +29,13 @@ def run_audit():
                 if line.startswith("### Szövegkritikai"):
                     break
 
+                clean_line = re.sub(r"\([^)]+\)", "", line)
+                clean_line = re.sub(r"\[[^\]]+\]", "", clean_line)
+                clean_line = re.sub(r"Szuverén Úr|Úr, YHWH|légy úr|kemény úr", "", clean_line)
                 for bad_term, suggestion in glossary.items():
-                    if re.search(re.escape(bad_term), line, re.IGNORECASE):
+                    if bad_term.strip() == "törvény" and any(x in line for x in ["dát", "chók", "choq", "mishpat", "eshdat", "jo'idenni"]):
+                        continue
+                    if re.search(r"\b" + re.escape(bad_term.strip()) + r"\b", clean_line):
                         vers_match = re.match(r"\*\*(\d+)\.\*\*", line.strip())
                         vers = f"{vers_match.group(1)}. vers" if vers_match else f"{line_num}. sor"
                         clean_term = bad_term.strip()
