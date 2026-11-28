@@ -80,7 +80,7 @@
 <ul>
   <li><strong><a href="brit-chadashah/01-mattitjahu/01/">Mattitjáhú (Máté) (1–28. fejezet)</a>:</strong> Teljes egészében elkészült és olvasható.</li>
   <li><strong><a href="brit-chadashah/02-markus/01/">Markus (Márk) (1–16. fejezet)</a>:</strong> Teljes egészében elkészült és olvasható.</li>
-  <li><strong><a href="brit-chadashah/03-lukas/01/">Lukas (Lukács) (1–23. fejezet)</a>:</strong> Folyamatban (23. fejezetig elkészült).</li>
+  <li><strong><a href="brit-chadashah/03-lukas/01/">Lukas (Lukács) (1–24. fejezet)</a>:</strong> Teljes egészében elkészült és olvasható.</li>
 </ul>
 
 </details>
